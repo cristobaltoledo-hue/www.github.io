@@ -1,0 +1,10 @@
+.image{
+height: 70px;
+}
+.fondo{
+    background-image: url(Recurso\ 1.svg) ;
+    background-size: 1350px;
+}
+.text{
+    color: aliceblue;
+}
